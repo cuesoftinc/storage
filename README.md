@@ -1,2 +1,2 @@
-# object
-Object Storage Implementations
+# storage
+Storage API Implementations
